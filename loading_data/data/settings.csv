@@ -1,0 +1,4 @@
+setting,value,min,max
+circle_size,10,5,50
+circle_speed,0.1,0.0,2.0
+circle_orbit,1.4,1.0,4.5

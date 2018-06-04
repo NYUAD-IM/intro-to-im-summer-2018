@@ -1,0 +1,24 @@
+{
+  "humans":[
+    {
+      "name": "amir",
+      "age": 22,
+      "happy": true,
+    },
+    {
+      "name": "xiao",
+      "age": 24,
+      "happy": false,
+    },
+    {
+      "name": "pablo",
+      "age": 20,
+      "happy": true,
+    },
+    {
+      "name": "tomas",
+      "age": 28,
+      "happy": true,
+    }
+  ]
+}
